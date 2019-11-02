@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: a475c81d7c65756468f512a2151cd1fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9009750516885710886
+    second: neon fire hud_0
+  - first:
+      213: -5962356999722959862
+    second: neon fire hud_1
+  - first:
+      213: -839856680605978492
+    second: neon fire hud_2
+  - first:
+      213: -7410011149732294613
+    second: neon fire hud_3
+  - first:
+      213: -5985334997647699221
+    second: neon fire hud_4
+  - first:
+      213: 7670826716967437200
+    second: neon fire hud_5
+  - first:
+      213: -1039055857304878213
+    second: neon fire hud_6
+  - first:
+      213: 3238830043295025475
+    second: neon fire hud_7
+  - first:
+      213: 6912601650168513385
+    second: neon fire hud_8
+  - first:
+      213: -5813822960420566615
+    second: neon fire hud_9
+  - first:
+      213: -2591069111436218385
+    second: neon fire hud_10
+  - first:
+      213: 1703471856853986541
+    second: neon fire hud_11
+  - first:
+      213: 1490690117417810052
+    second: neon fire hud_12
+  - first:
+      213: 4164765263030320801
+    second: neon fire hud_13
+  - first:
+      213: -2924858303018358364
+    second: neon fire hud_14
+  - first:
+      213: -4781717830259726621
+    second: neon fire hud_15
+  - first:
+      213: -2926155367909494518
+    second: neon fire hud_16
+  - first:
+      213: -5213633226797158347
+    second: neon fire hud_17
+  - first:
+      213: -4587152505819588150
+    second: neon fire hud_18
+  - first:
+      213: 4782407627857095805
+    second: neon fire hud_19
+  - first:
+      213: 44475740291068276
+    second: neon fire hud_20
+  - first:
+      213: 8514526356248644879
+    second: neon fire hud_21
+  - first:
+      213: 881953223493575730
+    second: neon fire hud_22
+  - first:
+      213: 4887645125154876991
+    second: neon fire hud_23
+  - first:
+      213: -5950878111602421593
+    second: neon fire hud_24
+  - first:
+      213: -7911851589215365062
+    second: neon fire hud_25
+  - first:
+      213: 1130389788551151050
+    second: neon fire hud_26
+  - first:
+      213: -659650447152049329
+    second: neon fire hud_27
+  - first:
+      213: -8778719530788797208
+    second: neon fire hud_28
+  - first:
+      213: -8413632118373093725
+    second: neon fire hud_29
+  - first:
+      213: -1743332295397000832
+    second: neon fire hud_30
+  - first:
+      213: -1047329092268478059
+    second: neon fire hud_31
+  - first:
+      213: -75515817969476904
+    second: neon fire hud_32
+  - first:
+      213: 8543102672160233974
+    second: neon fire hud_33
+  - first:
+      213: 6604920531136740525
+    second: neon fire hud_34
+  - first:
+      213: -1132372040596400302
+    second: neon fire hud_35
+  - first:
+      213: 1153695000307128778
+    second: neon fire hud_36
+  - first:
+      213: 8069732418868033439
+    second: neon fire hud_37
+  - first:
+      213: 8881674344918387707
+    second: neon fire hud_38
+  - first:
+      213: -5512820939041935909
+    second: neon fire hud_39
+  - first:
+      213: 2144183113554268385
+    second: neon fire hud_40
+  - first:
+      213: -7772010696617455231
+    second: neon fire hud_41
+  - first:
+      213: 8530524296729785622
+    second: neon fire hud_42
+  - first:
+      213: 6452767832123359335
+    second: neon fire hud_43
+  - first:
+      213: -6443538289255134794
+    second: neon fire hud_44
+  - first:
+      213: 4456394902111711007
+    second: neon fire hud_45
+  - first:
+      213: 8867118934774704178
+    second: neon fire hud_46
+  - first:
+      213: 4818501711632328456
+    second: neon fire hud_47
+  - first:
+      213: 1958087549592443065
+    second: neon fire hud_48
+  - first:
+      213: 7513816370590663978
+    second: neon fire hud_49
+  - first:
+      213: -6281198647030543371
+    second: neon fire hud_50
+  - first:
+      213: 3221247268910540008
+    second: neon fire hud_51
+  - first:
+      213: -1133679476501666441
+    second: neon fire hud_52
+  - first:
+      213: 8355053481384312537
+    second: neon fire hud_53
+  - first:
+      213: -3188474795531594525
+    second: neon fire hud_54
+  - first:
+      213: 3770214793156240210
+    second: neon fire hud_55
+  - first:
+      213: -3877904992564307603
+    second: neon fire hud_56
+  - first:
+      213: 5653256802352396079
+    second: neon fire hud_57
+  - first:
+      213: 4469839209006998998
+    second: neon fire hud_58
+  - first:
+      213: 5510077666419255611
+    second: neon fire hud_59
+  - first:
+      213: -4681545202370197127
+    second: neon fire hud_60
+  - first:
+      213: 4156446412240709172
+    second: neon fire hud_61
+  - first:
+      213: -4420720971642341376
+    second: neon fire hud_62
+  - first:
+      213: -1660255779346695367
+    second: neon fire hud_63
+  - first:
+      213: 7659574820078851858
+    second: neon fire hud_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neon fire hud_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3890
+        width: 1141
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa7de2b0b6be54da094838eed22ab0
+      internalID: -9009750516885710886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_1
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 3859
+        width: 1141
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48450568455070b4199e2a4cee13df14
+      internalID: -5962356999722959862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_2
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 3834
+        width: 1141
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f248669f378af4e8824ace115e72ea
+      internalID: -839856680605978492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3602
+        width: 1337
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692388fde5cd9eb469c7d217fc725795
+      internalID: -7410011149732294613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_4
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3571
+        width: 1336
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df77714ffa66e5f429311c62202b23f1
+      internalID: -5985334997647699221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_5
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3546
+        width: 1337
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af03383cd486ac458f3e5d36921878c
+      internalID: 7670826716967437200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3319
+        width: 281
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7dd3521e7a25942bd38b1c37933a4f
+      internalID: -1039055857304878213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3319
+        width: 270
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71cf5070e53c324eb0313a29537b838
+      internalID: 3238830043295025475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3319
+        width: 269
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aacfcb8b94b9447a3b9f2d13ab0a35
+      internalID: 6912601650168513385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3319
+        width: 889
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ff6bd3d973824e9654ad26dd6c398
+      internalID: -5813822960420566615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_10
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3288
+        width: 283
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32950dfd5dc23d4c85d20497158d3da
+      internalID: -2591069111436218385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_11
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3288
+        width: 269
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5680c1ea9c4e44b5c378b916bb1b2
+      internalID: 1703471856853986541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3288
+        width: 269
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82565c3e2e2eba445b6d7904c2fce6b0
+      internalID: 1490690117417810052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_13
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3288
+        width: 889
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c4419105dc744e90a3af210599f5a
+      internalID: 4164765263030320801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_14
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 3262
+        width: 283
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1393077cf72725f418cb94585a2c77c9
+      internalID: -2924858303018358364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_15
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 3262
+        width: 269
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380eaaf667ee2f42a7c67bf47c6c11a
+      internalID: -4781717830259726621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_16
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 3262
+        width: 269
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf21cc41941fdf4a8e3b432b467e364
+      internalID: -2926155367909494518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_17
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3262
+        width: 887
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c8086920f7fd4e97c2ca5db85671d
+      internalID: -5213633226797158347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2949
+        width: 1308
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3316c1a8a48143be41cf784f2c875
+      internalID: -4587152505819588150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_19
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2918
+        width: 1306
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79061134ea21cd54ba9faa2837affcdc
+      internalID: 4782407627857095805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_20
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2893
+        width: 1308
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5d9f8c05791d4691a151b2529e450
+      internalID: 44475740291068276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2580
+        width: 1308
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ad3e7ab49685459cbdd576249e5bb
+      internalID: 8514526356248644879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_22
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2549
+        width: 1306
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abacee001ecf5ba419bf6dae60332147
+      internalID: 881953223493575730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_23
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2522
+        width: 1308
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e9edfa5bafa440b450ab04648275f
+      internalID: 4887645125154876991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2178
+        width: 1238
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5927ddafe4288a84c81c1d1a089d789c
+      internalID: -5950878111602421593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_25
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2147
+        width: 1238
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34d1600bab2dd41bb8f50e9224d684
+      internalID: -7911851589215365062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_26
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2121
+        width: 1238
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbef9735002b2c48ae3bc0bea3b2174
+      internalID: 1130389788551151050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1859
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c631ba8b88374a9a136c2588e90c4
+      internalID: -659650447152049329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1857
+        width: 232
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74411cdc0a13c541bc1de4902a42450
+      internalID: -8778719530788797208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1851
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c69191f8daa2c043b9d49f87f2b6a3e
+      internalID: -8413632118373093725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_30
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1857
+        width: 267
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75ecdc4cf366448bb77d46541d0b61
+      internalID: -1743332295397000832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_31
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1828
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6baa33c29f3494fa631fa39adce6fd
+      internalID: -1047329092268478059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_32
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1826
+        width: 234
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f0da5bbd5a13544903af48b6ee1206
+      internalID: -75515817969476904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_33
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1820
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5526ae74c7bd4d340868096aee4f0558
+      internalID: 8543102672160233974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_34
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1826
+        width: 267
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48910467ab5e30e4b9c61ca8a99b5435
+      internalID: 6604920531136740525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_35
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 1803
+        width: 221
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf000764787d85f46b7ef227ad807080
+      internalID: -1132372040596400302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_36
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1801
+        width: 235
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60987516e008bf844a41218bfacd4615
+      internalID: 1153695000307128778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_37
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 1795
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743279ed3d68594e83a943a325e7491
+      internalID: 8069732418868033439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_38
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1799
+        width: 268
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7274d4bc2d678b44ba1ea0217302e49
+      internalID: 8881674344918387707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 156
+        width: 161
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104cc2283ecd07d4d8c1efb300754f08
+      internalID: -5512820939041935909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_40
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 611
+        width: 163
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c388208f52c2c40944d97aadbb4f12
+      internalID: 2144183113554268385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_41
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 188
+        width: 210
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a23a9178e008a9478b433773bf98ba8
+      internalID: -7772010696617455231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_42
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 191
+        width: 209
+        height: 1307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae8d1eeecfb444eac61f21015d7ee5
+      internalID: 8530524296729785622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_43
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 228
+        width: 231
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170b2d52e5868246891449858736a35
+      internalID: 6452767832123359335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_44
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1422
+        width: 996
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66f56e8e1b48e43aa098a362b8c379
+      internalID: -6443538289255134794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 249
+        height: 1141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416adb385eb6df459fefd2a963fdd5a
+      internalID: 4456394902111711007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_46
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1124
+        width: 226
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff57557ee02376e4e94005904393eabe
+      internalID: 8867118934774704178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_47
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1221
+        width: 1165
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1e4c9c2f925f4b9abffae9d6202b2
+      internalID: 4818501711632328456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_48
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 829
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10d5bbce64fb14794eabc2cabea0f7
+      internalID: 1958087549592443065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_49
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1023
+        width: 249
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82af306e35e5d4cabeda446c78d487
+      internalID: 7513816370590663978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_50
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1023
+        width: 238
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb329341b981e64f84fd2adf4c18f2d
+      internalID: -6281198647030543371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1023
+        width: 237
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f6d5675b46e74c9213df770b37a46
+      internalID: 3221247268910540008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_52
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1023
+        width: 774
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86adcac699f118e4aa9f4908e30ccdc5
+      internalID: -1133679476501666441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_53
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 535
+        width: 218
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53561074a192a4fa951571174e6b0b
+      internalID: 8355053481384312537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_54
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 765
+        width: 1137
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474bd48108108c4eb0512d49e55a34e
+      internalID: -3188474795531594525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_55
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 458
+        width: 159
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33fd297ec74b234ba7ebe63d6086c30
+      internalID: 3770214793156240210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_56
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 312
+        width: 158
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508908f44feb7a47b5cf85e4b02219b
+      internalID: -3877904992564307603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_57
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 506
+        width: 1137
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba517c7fea43bde4f86629dbd6cd04a6
+      internalID: 5653256802352396079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_58
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 156
+        width: 158
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48408861b4ef71b429071ac43db3eb91
+      internalID: 4469839209006998998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_59
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 267
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd852f911552f46a9ede729770eb15
+      internalID: 5510077666419255611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_60
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 226
+        width: 1075
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb79afb360ba149a79baa235553618
+      internalID: -4681545202370197127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_61
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3
+        width: 195
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b70cd9527a7840876b41785641902
+      internalID: 4156446412240709172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_62
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1
+        width: 203
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd798c6c6b47c24ab220f983cd1a498
+      internalID: -4420720971642341376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_63
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 0
+        width: 191
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f6d276ab7eb3428dd1b2e02c9fb9d
+      internalID: -1660255779346695367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neon fire hud_64
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1
+        width: 234
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccfdaac0550e744bdd73be8bdd8f84
+      internalID: 7659574820078851858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
